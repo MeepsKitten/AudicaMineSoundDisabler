@@ -1,4 +1,4 @@
-# AudicaMineSoundDisabler
+# Audica Mine Sound Disabler
  Disables the sound mines make as they fly past
 
 ## Installation
